@@ -12,7 +12,7 @@
 
 ## Questions
 
-This pull request needs to be merged with some pull request from back-end?
+This pull request needs to be merged with some pull request from back-end or front-end?
 - [ ] Yes (link it below)
 - [ ] No
 
