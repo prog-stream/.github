@@ -48,9 +48,4 @@ You can maybe use checklist so the reviewer can confirm them after testing.
 - [ ] I have added feature flag (if applicable) to any new features I added.
 - [ ] I have made sure all checks are passing.
 
-[
-<!-- Add ticket number here  -->
-]
-(
-<!-- Add Ticket link here -->
-)
+[<!-- Add ticket number here  -->](<!-- Add Ticket link here -->)
