@@ -10,20 +10,6 @@
 - [ ] Bugfix 🐛
 - [ ] Improvement 🔨
 
-## Questions
-
-This pull request needs to be merged with some pull request from back-end or front-end?
-- [ ] Yes (link it below)
-- [ ] No
-
-This pull request introduces a breaking change?
-- [ ] Yes
-- [ ] No
-
-Have you made sure merging it will not cause deployment to crash for other users?        
-- [ ] Yes
-- [ ] No
-
 ##  📖 Description
 
 <!-- Provide a short description of what this pull request does?
@@ -37,15 +23,5 @@ Mention any particular area of code the reviewer should focus on?
 You can maybe use checklist so the reviewer can confirm them after testing.
 -->
 
-## ✔️ Checklist
-<!--- Put an x in the boxes that apply. -->
-
-- [ ] I have tested my changes.
-- [ ] I have added test cases for my changes.
-- [ ] I have made sure any existing test cases aren't failing due to my changes.
-- [ ] I have made sure any text I added or updated is localized.
-- [ ] I have updated Storybook (if applicable) to reflect any changes in components.
-- [ ] I have added feature flag (if applicable) to any new features I added.
-- [ ] I have made sure all checks are passing.
-
+<!-- Link any pull request that needs to be merged with this -->
 [<!-- Add ticket number here  -->](<!-- Add Ticket link here -->)
