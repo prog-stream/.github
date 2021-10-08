@@ -1,0 +1,14 @@
+groups:
+  - name: developers # name of the group
+    reviewers: 3 # how many reviewers do you want to assign?
+    usernames: # github usernames of the reviewers
+      - Abrar-Ashraf
+      - FahadAly05
+      - FatimaAhmed23
+      - ibrahimkhalil92
+      - JazibJafri
+      - junaidn
+      - misbahkhalilaz
+      - Suhail-Murtaza
+      - syedyarooq
+      - TouqeerH
